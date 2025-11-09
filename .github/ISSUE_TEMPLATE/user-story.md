@@ -15,6 +15,8 @@ assignees: ''
 
 ## Acceptance Criteria
 
-- [ ] 
+- Given
+- When
+- Then
 
 ## Additional Notes
